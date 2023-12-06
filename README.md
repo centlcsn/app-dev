@@ -1,22 +1,23 @@
 # app-dev
 My first repository
+--------------------------------------
 **My Favorite Movie is *Charlie and the Chocolate Factory***
 --------------------------------------
 `The movie was`
-**Author: Roald Dahl
-Publication Year: 1964**
+- **Authored by Roald Dahl**
+- **Published year: 1964**
 
-The main characters are *Charlie and Mr.Wonka*
+The main characters are *Charlie and Willy Wonka*
 
 ![](http://t0.gstatic.com/images?q=tbn:ANd9GcTeZIGuZDUIlB9gxz82NwaoUjcUcbFLIajHK2WPwcX-geyk-JpndV8Sr3fD8dukyITY9mJ_)
 
-##Other are: ##
+*Others are:*
 - *Augustus Gloop*
 - *Veruca Salt*
 - *Violet Beauregarde*
 - *Mike Teavee*
-- *Granda Joe*
-- *Oomnpa*
+- *Granpda Joe*
+- *OomnpaLLoompas*
 ---------------------------------------
 `Themes:`
 The story explores themes of morality, greed, and the consequences of bad behavior.
